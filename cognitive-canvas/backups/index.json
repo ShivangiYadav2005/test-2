@@ -1,7 +1,19 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-21T04:28:44.144Z",
+  "updatedAt": "2026-07-21T04:36:07.984Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-21_10-06-06.zip",
+      "storage": "release",
+      "assetId": 484251616,
+      "assetName": "cc-backup-2026-07-21_10-06-06.zip",
+      "releaseTag": "cognitive-canvas-backups",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_10-06-06.zip",
+      "size": 38889972,
+      "totalSize": 38889972,
+      "createdAt": "2026-07-21T04:36:07.984Z",
+      "format": "single"
+    },
     {
       "name": "cc-backup-2026-07-21_09-58-31.zip",
       "storage": "release",
