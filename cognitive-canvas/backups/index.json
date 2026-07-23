@@ -1,6 +1,6 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-23T10:09:07.132Z",
+  "updatedAt": "2026-07-23T10:09:14.254Z",
   "backups": [
     {
       "name": "cc-backup-2026-07-23_15-39-07.zip",
@@ -121,54 +121,6 @@
       "assetId": 486813923,
       "totalSize": 1039832,
       "size": 1039832
-    },
-    {
-      "name": "cc-backup-2026-07-21_10-06-06.zip",
-      "assetName": "cc-backup-2026-07-21_10-06-06.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_10-06-06.zip",
-      "createdAt": "2026-07-21T04:36:11Z",
-      "format": "release",
-      "storage": "release",
-      "releaseTag": "cognitive-canvas-backups",
-      "assetId": 484251616,
-      "totalSize": 38889972,
-      "size": 38889972
-    },
-    {
-      "name": "cc-backup-2026-07-21_09-58-31.zip",
-      "assetName": "cc-backup-2026-07-21_09-58-31.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_09-58-31.zip",
-      "createdAt": "2026-07-21T04:28:36Z",
-      "format": "release",
-      "storage": "release",
-      "releaseTag": "cognitive-canvas-backups",
-      "assetId": 484246372,
-      "totalSize": 58737846,
-      "size": 58737846
-    },
-    {
-      "name": "cc-backup-2026-07-21_09-55-59.zip",
-      "assetName": "cc-backup-2026-07-21_09-55-59.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_09-55-59.zip",
-      "createdAt": "2026-07-21T04:26:04Z",
-      "format": "release",
-      "storage": "release",
-      "releaseTag": "cognitive-canvas-backups",
-      "assetId": 484244598,
-      "totalSize": 58062350,
-      "size": 58062350
-    },
-    {
-      "name": "cc-backup-2026-07-21_09-55-32.zip",
-      "assetName": "cc-backup-2026-07-21_09-55-32.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_09-55-32.zip",
-      "createdAt": "2026-07-21T04:25:38Z",
-      "format": "release",
-      "storage": "release",
-      "releaseTag": "cognitive-canvas-backups",
-      "assetId": 484244313,
-      "totalSize": 56392606,
-      "size": 56392606
     }
   ]
 }
